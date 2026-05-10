@@ -1,7 +1,5 @@
 # Nour_Hassan-portfolio-website
 
-# Modern Portfolio Website
-
 A modern and responsive portfolio website built for a client.
 
 ## 🚀 Live Demo
