@@ -1,4 +1,4 @@
-<img width="693" height="680" alt="image" src="https://github.com/user-attachments/assets/64d188ea-2e52-4ed4-9f5b-c74bb91c67bc" /># Nour_Hassan-portfolio-website
+# Nour_Hassan-portfolio-website
 
 A modern and responsive portfolio website built for a client.
 
